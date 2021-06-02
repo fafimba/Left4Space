@@ -10202,13 +10202,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f46a4242fe654b04bb92ddeaca1c4fe4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _explosionPrefab: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+  _explosionPrefab: {fileID: 1000011797152326, guid: 0c5cc1ea890824510b60d3f59ba80a24,
     type: 3}
   _maxLife: 4
   _lifeRegenerationRate: 5
   _maxShield: 2
   _shieldRegenerationRate: 0.5
   _hitTimeRecovery: 5
+  inmortal: 0
 --- !u!1 &1294560772173488
 GameObject:
   m_ObjectHideFlags: 0

@@ -5711,11 +5711,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _explosionPrefab: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
     type: 3}
-  _maxLife: 50
+  _maxLife: 150
   _lifeRegenerationRate: 5
   _maxShield: 30
   _shieldRegenerationRate: 0.5
   _hitTimeRecovery: 5
+  inmortal: 1
 --- !u!82 &82640738031182490
 AudioSource:
   m_ObjectHideFlags: 0

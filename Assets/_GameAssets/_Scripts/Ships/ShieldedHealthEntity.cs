@@ -10,6 +10,8 @@ public class ShieldedHealthEntity : HealthEntity
     float _shieldRegenerationRate = .5f;
     [SerializeField]
     float _hitTimeRecovery = 5f;
+    [SerializeField]
+    bool inmortal =false;
 
     public Stat Shield;
 
@@ -38,8 +40,11 @@ public class ShieldedHealthEntity : HealthEntity
 
         if (Life.Actual == 0)
         {
-            Instantiate(_explosionPrefab, transform.position, Quaternion.identity);
-            Destroy(gameObject);
+            if (!inmortal)
+            {
+                Instantiate(_explosionPrefab, transform.position, Quaternion.identity);
+                Destroy(gameObject);
+            }
         }
     }
 
