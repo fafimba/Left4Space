@@ -1,5 +1,21 @@
 # Left4Space
 
+
+**Left4Space** is a personal project made to improve my knowledge of Unity.
+
+The game is inspired in others like Everspace or Star Fox.
+
+All the spaceships are physic driven to give a more enjoyable experience.
+The included IA is able to drive a spaceship, follow targets, flee from targets, aim and shoot at targets, avoid obstacles.
+
+All the assets are self-made or taken from the Unity asset store. Most of the sounds are self-made.
+
+
+IA Obstacles avoid
+
+![2021-06-02 03-13-23](https://user-images.githubusercontent.com/8351520/120413092-f7174300-c357-11eb-9c23-a20b2222f517.gif)
+![2021-06-02 03-13-23](https://user-images.githubusercontent.com/8351520/120413342-5ecd8e00-c358-11eb-8b15-b728df61e08f.gif)
+
 Massive battles
 
 ![2021-06-02 02-45-51](https://user-images.githubusercontent.com/8351520/120407254-0fce2b80-c34d-11eb-89a0-c8214c4878ee.gif)
@@ -22,7 +38,4 @@ IA vertical orientation & smart formation
 ![2021-06-02 02-51-06](https://user-images.githubusercontent.com/8351520/120411625-66d7fe80-c355-11eb-965d-2a77d7201eca.gif)
 
 
-IA Obstacles avoid
 
-![2021-06-02 03-13-23](https://user-images.githubusercontent.com/8351520/120413092-f7174300-c357-11eb-9c23-a20b2222f517.gif)
-![2021-06-02 03-13-23](https://user-images.githubusercontent.com/8351520/120413342-5ecd8e00-c358-11eb-8b15-b728df61e08f.gif)
